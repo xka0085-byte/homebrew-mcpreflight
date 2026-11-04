@@ -1,8 +1,8 @@
 class Mcpreflight < Formula
   desc "Read-only preflight checks for MCP and x402 endpoints"
   homepage "https://xka0085-byte.github.io/mcpreflight/"
-  url "https://registry.npmjs.org/@eidonze/mcpreflight/-/mcpreflight-0.6.1.tgz"
-  sha256 "a1d59146a6656ce2431b0ef613b912089132d6755e2904533d1a60119cba5808"
+  url "https://registry.npmjs.org/@eidonze/mcpreflight/-/mcpreflight-0.6.2.tgz"
+  sha256 "ca57c618ac97525676bf0ef8169ecf1978a864a350a2f62a2046ed5ad41def2f"
   license "MIT"
 
   depends_on "node"
